@@ -3,7 +3,9 @@ jk-simple-test
 
 Through the SimpleTest associated PHP development system environment.
 
-Configure to jk-frame framework.
+Configure to jk-frame framework. 
+
+Try development environment.
 
 Vendor
 =============
